@@ -80,6 +80,15 @@
       <path value="$PROJECT_DIR$/vendor/symplify/coding-standard" />
       <path value="$PROJECT_DIR$/vendor/symplify/smart-file-system" />
       <path value="$PROJECT_DIR$/vendor/symplify/phpstan-extensions" />
+      <path value="$PROJECT_DIR$/vendor/slevomat/coding-standard" />
+      <path value="$PROJECT_DIR$/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/vendor/symplify/autowire-array-parameter" />
+      <path value="$PROJECT_DIR$/vendor/symplify/auto-bind-parameter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symplify/easy-coding-standard" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
