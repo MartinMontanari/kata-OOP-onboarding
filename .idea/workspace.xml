@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cced44b2-edd2-40b1-a313-0f7c37fc7641" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Agedbrie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/AgedBrie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +164,7 @@
       <workItem from="1599569356497" duration="1027000" />
       <workItem from="1599600157259" duration="127000" />
       <workItem from="1599602621889" duration="1829000" />
+      <workItem from="1599780854113" duration="1038000" />
     </task>
     <servers />
   </component>
@@ -178,5 +181,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="308" width="313" height="463" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599781278143">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="315" y="308" width="313" height="463" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1010/1920.0.1366.768@0.27.1920.1010" timestamp="1599781278142" />
+    <state x="161" y="241" width="632" height="589" key="NewPhpClassDialog" timestamp="1599781068243">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="161" y="241" width="632" height="589" key="NewPhpClassDialog/0.27.1920.1010/1920.0.1366.768@0.27.1920.1010" timestamp="1599781068243" />
+    <state x="145" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1599781050196">
+      <screen x="0" y="27" width="1920" height="1010" />
+    </state>
+    <state x="145" y="252" width="672" height="678" key="search.everywhere.popup/0.27.1920.1010/1920.0.1366.768@0.27.1920.1010" timestamp="1599781050196" />
   </component>
 </project>
