@@ -4,22 +4,23 @@ declare(strict_types=1);
 
 namespace GildedRose;
 
-final class Item
+
+abstract class Item
 {
     /**
      * @var string
      */
-    public $name;
+    protected string $name;
 
     /**
      * @var int
      */
-    public $sell_in;
+    protected int $sell_in;
 
     /**
      * @var int
      */
-    public $quality;
+    protected int $quality;
 
     public function __construct(string $name, int $sell_in, int $quality)
     {
@@ -32,4 +33,8 @@ final class Item
     {
         return "{$this->name}, {$this->sell_in}, {$this->quality}";
     }
+
+    abstract function CalculateSellIn() : Item;
+
+    abstract function CalculateQuality() : Item;
 }
