@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cced44b2-edd2-40b1-a313-0f7c37fc7641" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Entities/BackstagePasses.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Regular.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Sulfuras.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItemFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/AgedBrie.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/AgedBrie.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GildedRose.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/GildedRose.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +167,7 @@
       <workItem from="1599780854113" duration="2364000" />
       <workItem from="1599783237558" duration="1225000" />
       <workItem from="1599838817713" duration="4081000" />
-      <workItem from="1599849323009" duration="1348000" />
+      <workItem from="1599849323009" duration="2216000" />
     </task>
     <servers />
   </component>
